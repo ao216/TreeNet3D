@@ -41,6 +41,6 @@ The following are overviews of the data formats used in TreeNet3D:
 ```
 ***skeleton.txt**: tree skeleton points. Contains attributes as follows：
 ```shell
-[ X, Y, Z, Skeleton-Radius, Skeleton-Hereditary Relations, Skeleton-Branch Index]
+[ X, Y, Z, Skeleton-Radius, Skeleton-Branch Hereditary Relations, Skeleton-Branch Index]
 ```
 
