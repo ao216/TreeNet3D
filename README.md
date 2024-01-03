@@ -33,6 +33,13 @@ The directory has the following structure:
 ## Data Formats
 The following are overviews of the data formats used in TreeNet3D:
 
-***.obj**:
-
+***.obj**: Mesh in various parts of trees.
+***PointClouds.txt**: Point clouds in various parts of trees.
+```shell
+[ X, Y, Z, oint cloud with index attribution of branchs, oint cloud with hereditary relations attribution of branchs]
+```
+***skeleton.txt**: tree skeleton points.
+```shell
+[ X, Y, Z, Skeleton-Radius, Skeleton-Hereditary Relations, Skeleton-Branch Index]
+```
 
