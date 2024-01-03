@@ -4,7 +4,7 @@ TreeNet3D is the first large-scale, multi-type synthetic tree model dataset. The
 ## TreeNet3D Data
 If you would like to download the TreeNet3D data, please fill out an agreement to the TreeNet3D Terms of Use, using your institutional email addresses, and send it to us at szszsz216@163.com.
 
-###Data Organization
+## Data Organization
 The directory has the following structure:
 ```shell
 |-- Flamboyant Tree
@@ -30,7 +30,7 @@ The directory has the following structure:
 |-- Camphor Tree
 |-- ...
 ```
-###Data Formats
+## Data Formats
 The following are overviews of the data formats used in TreeNet3D:
 
 
