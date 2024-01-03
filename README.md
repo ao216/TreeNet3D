@@ -7,6 +7,26 @@ If you would like to download the TreeNet3D data, please fill out an agreement t
 ##Data Organization
 The directory has the following structure:
 ```shell
-|-- <scanId>_2d-instance-filt.zip
-    Filtered 2d projections of aggregated annotation instances as 8-bit pngs
+|-- Flamboyant Tree
+| |-- Flamboyant Tree00_01
+| | |-- meshmodel
+| | | |-- leavesmesh.obj
+| | | |-- trunkmesh.obj
+| | |-- pointcloud
+| | | |-- branchPointClouds.txt
+| | | |-- leafPointClouds.txt
+| | | |-- mergePointClouds.txt
+| | |-- pointcloudnoise
+| | | |-- branchPointClouds.txt
+| | | |-- leafPointClouds.txt
+| | | |-- mergePointClouds.txt
+| | |-- skeleton
+| | | |-- skeleton.txt
+| | |-- TreeVolum.txt
+| |-- Flamboyant Tree00_02
+| |-- ...
+
+|-- Small-leaved Olive
+|-- Camphor Tree
+|-- ...
 ```
