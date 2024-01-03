@@ -43,4 +43,11 @@ The following are overviews of the data formats used in TreeNet3D:
 ```shell
 [ X, Y, Z, Skeleton-Radius, Skeleton-Branch Hereditary Relations, Skeleton-Branch Index]
 ```
+## Citation
+If you use the TreeNet3D data or code please cite:
+```shell
+```
+## Help
+If you have any questions, please contact us at szszsz216@163.com
+
 
