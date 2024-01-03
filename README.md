@@ -37,7 +37,7 @@ The following are overviews of the data formats used in TreeNet3D:
 
 ***PointClouds.txt**: Point clouds in various parts of trees. Contains attributes as follows：
 ```shell
-[ X, Y, Z, point cloud with index attribution of branchs, point cloud with hereditary relations attribution of branchs]
+[ X, Y, Z, point cloud-Branch Index, point cloud-Branch Hereditary Relations]
 ```
 ***skeleton.txt**: tree skeleton points. Contains attributes as follows：
 ```shell
