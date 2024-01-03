@@ -47,6 +47,9 @@ The following are overviews of the data formats used in TreeNet3D:
 If you use the TreeNet3D data or code please cite:
 ```shell
 ```
+## License
+The data is released under the [TreeNet3D Terms of Use]([http://kaldir.vc.in.tum.de/scannet/ScanNet_TOS.pdf](https://github.com/ao216/TreeNet3D/blob/main/TreeNet3D%20Terms%20of%20Use.pdf)), and the code is released under the MIT license.
+
 ## Help
 If you have any questions, please contact us at szszsz216@163.com
 
