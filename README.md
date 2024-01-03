@@ -36,7 +36,7 @@ The following are overviews of the data formats used in TreeNet3D:
 ***.obj**: Mesh in various parts of trees.
 ***PointClouds.txt**: Point clouds in various parts of trees.
 ```shell
-[ X, Y, Z, oint cloud with index attribution of branchs, oint cloud with hereditary relations attribution of branchs]
+[ X, Y, Z, point cloud with index attribution of branchs, point cloud with hereditary relations attribution of branchs]
 ```
 ***skeleton.txt**: tree skeleton points.
 ```shell
