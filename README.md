@@ -3,3 +3,10 @@ TreeNet3D is the first large-scale, multi-type synthetic tree model dataset. The
 
 ##TreeNet3D Data
 If you would like to download the TreeNet3D data, please fill out an agreement to the TreeNet3D Terms of Use, using your institutional email addresses, and send it to us at szszsz216@163.com.
+
+##Data Organization
+The directory has the following structure:
+```shell
+|-- <scanId>_2d-instance-filt.zip
+    Filtered 2d projections of aggregated annotation instances as 8-bit pngs
+```
