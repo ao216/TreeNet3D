@@ -47,6 +47,15 @@ The following are overviews of the data formats used in TreeNet3D:
 ## Citation
 If you use the TreeNet3D data or code please cite:
 ```shell
+@article{tang2024treenet3d,
+  title={TreeNet3D: A large scale tree benchmark for 3D tree modeling, carbon storage estimation and tree segmentation},
+  author={Tang, Shengjun and Ao, Zhuoyu and Li, Yaoyu and Huang, Hongsheng and Xie, Linfu and Wang, Ruisheng and Wang, Weixi and Guo, Renzhong},
+  journal={International Journal of Applied Earth Observation and Geoinformation},
+  volume={130},
+  pages={103903},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
 ## License
 The data is released under the [TreeNet3D Terms of Use](https://github.com/ao216/TreeNet3D/blob/main/TreeNet3D%20Terms%20of%20Use.pdf), and the code is released under the MIT license.
