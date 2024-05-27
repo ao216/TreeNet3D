@@ -45,7 +45,7 @@ The following are overviews of the data formats used in TreeNet3D:
 [ X, Y, Z, Skeleton-Radius, Skeleton-Branch Hereditary Relations, Skeleton-Branch Index]
 ```
 ## Citation
-If you use the TreeNet3D data or code please cite:
+If you use the TreeNet3D data please cite:
 ```shell
 @article{tang2024treenet3d,
   title={TreeNet3D: A large scale tree benchmark for 3D tree modeling, carbon storage estimation and tree segmentation},
