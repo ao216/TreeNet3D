@@ -3,7 +3,7 @@ TreeNet3D is the first large-scale, multi-type synthetic tree model dataset. The
 <img src="/alltrees.png" width="800">
 
 ## TreeNet3D Data
-If you would like to download the TreeNet3D data, please fill out an agreement to the [TreeNet3D Terms of Use](https://github.com/ao216/TreeNet3D/blob/main/TreeNet3D%20Terms%20of%20Use.pdf), using your institutional email addresses, and send it to us at szszsz216@163.com.
+If you would like to download the TreeNet3D data, please fill out an agreement to the [TreeNet3D Terms of Use](https://github.com/ao216/TreeNet3D/blob/main/TreeNet3D%20Terms%20of%20Use.pdf), using your institutional email addresses, and send it to us at shengjuntang@szu.edu.cn.
 
 ## Data Organization
 The directory has the following structure:
@@ -61,6 +61,6 @@ If you use the TreeNet3D data please cite:
 The data is released under the [TreeNet3D Terms of Use](https://github.com/ao216/TreeNet3D/blob/main/TreeNet3D%20Terms%20of%20Use.pdf), and the code is released under the MIT license.
 
 ## Help
-If you have any questions, please contact us at szszsz216@163.com
+If you have any questions, please contact us at shengjuntang@szu.edu.cn
 
 
